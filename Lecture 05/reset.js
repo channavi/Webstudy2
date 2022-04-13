@@ -11,3 +11,22 @@ function Reset()
 
     hidden.style.visibility = "visible";
 }
+
+function Box1()
+{
+    var arr1 = [];
+    arr.push(RSquares);
+    arr.push(YSquares);
+    arr.push(GSquares);
+    arr.push(BSquares);
+    arr.push(PSquares);
+    arr.push(BLSquares);
+}
+function Box2()
+{
+    var arr2 = [];
+}
+function Box3()
+{
+    var arr3 = [];
+}
